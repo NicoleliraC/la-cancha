@@ -1,0 +1,49 @@
+.cancha{
+	width:100%;
+	height:620px;
+	background-color: #75CC91;
+}
+.cuadrado{
+	width: 95%;
+	height: 550px;
+	background-color: #75CC91;
+	border :2px solid #FFFFFF;
+	position: absolute;
+	left: 30px;
+	bottom: 55px;
+}
+.dos{
+	width: 13%;
+	height: 280px;
+	background-color: #75CC91;
+	border :2px solid #FFFFFF;
+	position: absolute;
+	left: 30px;
+	top: 180px;
+
+}
+.tres{
+	width: 13%;
+	height: 280px;
+	background-color: #75CC91;
+	border :2px solid #FFFFFF;
+	position: absolute;
+	left: 1097px;
+	top: 180px;
+}
+.circulo {
+     width: 17%;
+     height: 200px;
+     -moz-border-radius: 50%;
+     -webkit-border-radius: 50%;
+     border-radius: 50%;
+     background:#75CC91;
+     border:2px solid #FFFFFF;
+     position: absolute;
+     left: 500px;
+     top: 180px;
+}
+.bola{
+	position: relative;
+
+
